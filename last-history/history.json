@@ -1,0 +1,22 @@
+{
+  "289d0016349b47f804455ab3e613ed85" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "afe5a95e092647cf",
+      "reportUrl" : "https://madhank93.github.io/wdio-ts-github-actions/8//#testresult/afe5a95e092647cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1619273985485,
+        "stop" : 1619273987438,
+        "duration" : 1953
+      }
+    } ]
+  }
+}
