@@ -1,0 +1,90 @@
+{
+  "uid" : "4564993b9951651a",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Login application.should login with valid credentials",
+  "historyId" : "bd13cb44031b3856cfad65a153aefff5",
+  "time" : {
+    "start" : 1620187011585,
+    "stop" : 1620187014942,
+    "duration" : 3357
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-88.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ce14420fe752d4b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620187011176,
+        "stop" : 1620187015248,
+        "duration" : 4072
+      }
+    }, {
+      "uid" : "f8aca6a1a87a88f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620187011151,
+        "stop" : 1620187014793,
+        "duration" : 3642
+      }
+    }, {
+      "uid" : "84d27417eabf0b62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620187010992,
+        "stop" : 1620187014583,
+        "duration" : 3591
+      }
+    }, {
+      "uid" : "9415ebb28f862659",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620187010424,
+        "stop" : 1620187014174,
+        "duration" : 3750
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4564993b9951651a.json",
+  "parameterValues" : [ "firefox-88.0" ]
+}

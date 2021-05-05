@@ -1,0 +1,128 @@
+{
+  "uid" : "7e78a7e3f457297c",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Login application.should login with valid credentials",
+  "historyId" : "289d0016349b47f804455ab3e613ed85",
+  "time" : {
+    "start" : 1620187002207,
+    "stop" : 1620187006685,
+    "duration" : 4478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.72"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "81d49f47289ed5b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620187000613,
+        "stop" : 1620187004704,
+        "duration" : 4091
+      }
+    }, {
+      "uid" : "7a5470de4c17a3b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620186999568,
+        "stop" : 1620187004884,
+        "duration" : 5316
+      }
+    }, {
+      "uid" : "da4eb924eeee5909",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620186998925,
+        "stop" : 1620187003908,
+        "duration" : 4983
+      }
+    }, {
+      "uid" : "cb24e2d8e1770ffd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1620186996598,
+        "stop" : 1620187001050,
+        "duration" : 4452
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "ed2f216a080775c1",
+        "reportUrl" : "https://madhank93.github.io/wdio-ts-github-actions/10//#testresult/ed2f216a080775c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619364076216,
+          "stop" : 1619364080648,
+          "duration" : 4432
+        }
+      }, {
+        "uid" : "6026c664a59f165",
+        "reportUrl" : "https://madhank93.github.io/wdio-ts-github-actions/9//#testresult/6026c664a59f165",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619275091816,
+          "stop" : 1619275095031,
+          "duration" : 3215
+        }
+      }, {
+        "uid" : "afe5a95e092647cf",
+        "reportUrl" : "https://madhank93.github.io/wdio-ts-github-actions/8//#testresult/afe5a95e092647cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619273985485,
+          "stop" : 1619273987438,
+          "duration" : 1953
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7e78a7e3f457297c.json",
+  "parameterValues" : [ "chrome-90.0.4430.72" ]
+}
