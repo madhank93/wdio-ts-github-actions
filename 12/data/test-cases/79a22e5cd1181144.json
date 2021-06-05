@@ -1,0 +1,110 @@
+{
+  "uid" : "79a22e5cd1181144",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Login application.should login with valid credentials",
+  "historyId" : "bd13cb44031b3856cfad65a153aefff5",
+  "time" : {
+    "start" : 1622911119112,
+    "stop" : 1622911123268,
+    "duration" : 4156
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-88.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f551a7dfbd99da36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622911119076,
+        "stop" : 1622911122961,
+        "duration" : 3885
+      }
+    }, {
+      "uid" : "ef5190913a31f7a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622911118881,
+        "stop" : 1622911123064,
+        "duration" : 4183
+      }
+    }, {
+      "uid" : "ce02b3cce36b6131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622911117586,
+        "stop" : 1622911121616,
+        "duration" : 4030
+      }
+    }, {
+      "uid" : "5d3ac18ea501d327",
+      "status" : "passed",
+      "time" : {
+        "start" : 1622911116498,
+        "stop" : 1622911120390,
+        "duration" : 3892
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4564993b9951651a",
+        "reportUrl" : "https://madhank93.github.io/wdio-ts-github-actions/11//#testresult/4564993b9951651a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1620187011585,
+          "stop" : 1620187014942,
+          "duration" : 3357
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "79a22e5cd1181144.json",
+  "parameterValues" : [ "firefox-88.0" ]
+}
