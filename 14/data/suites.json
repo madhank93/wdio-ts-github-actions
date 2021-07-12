@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "should login with valid credentials",
+      "uid" : "ed3d8221e73cd48a",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626107581750,
+        "stop" : 1626107586597,
+        "duration" : 4847
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.106" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "3dc71821ef8d4804",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626107590040,
+        "stop" : 1626107593521,
+        "duration" : 3481
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-89.0" ]
+    } ],
+    "uid" : "ff9b43c34a817b44fa9b6edf61b00141"
+  } ],
+  "name" : "suites"
+}
